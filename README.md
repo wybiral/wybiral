@@ -1,6 +1,7 @@
 ### Davy Wybiral
 
 - Email: davy.wybiral@gmail.com
+- Mastodon: https://mastodon.social/@davywtf
 - YouTube: https://youtube.com/davybot
 
 <!--
