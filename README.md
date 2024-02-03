@@ -1,8 +1,6 @@
 ### Davy Wybiral
 
 - Email: davy.wybiral@gmail.com
-- Mastodon: https://mastodon.social/@davywtf
-- YouTube: https://youtube.com/davybot
 
 <!--
 **wybiral/wybiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
